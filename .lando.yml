@@ -1,0 +1,5 @@
+name: wcus
+recipe: wordpress
+config:
+  webroot: web
+  php: '8.1'
